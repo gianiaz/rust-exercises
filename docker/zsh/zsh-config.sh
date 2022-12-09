@@ -49,7 +49,7 @@ plugins=(git symfony2 composer)
 
 # User configuration
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/var/www/pagamenti/vendor/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/var/www/pagamenti/vendor/bin:/usr/local/cargo/bin"
 
 source $ZSH/oh-my-zsh.sh
 
