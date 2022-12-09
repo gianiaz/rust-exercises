@@ -1,0 +1,7 @@
+version: '3.5'
+
+services:
+  rust:
+    image: gianiaz/rust:latest
+    volumes:
+      - .:/home/gianiaz/app
